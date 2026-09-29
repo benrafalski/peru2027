@@ -161,3 +161,24 @@ Prices checked **September 29, 2026**. Online prices can change; confirm all amo
 - [Classic Salkantay packing list (text)](docs/ENG_SKT5CL_PL.txt)
 - [Classic Salkantay sales brochure (PDF)](docs/ENG_SKT5CL_SALES.pdf)
 - [Classic Salkantay sales brochure (text)](docs/ENG_SKT5CL_SALES.txt)
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+	var items = document.querySelectorAll("input[type='checkbox']");
+	var pageKey = "salkantay-checklist:" + window.location.pathname + ":";
+
+	items.forEach(function (item, index) {
+		var key = pageKey + index;
+		var saved = window.localStorage.getItem(key);
+
+		item.disabled = false;
+		if (saved !== null) {
+			item.checked = saved === "true";
+		}
+
+		item.addEventListener("change", function () {
+			window.localStorage.setItem(key, String(item.checked));
+		});
+	});
+});
+</script>
