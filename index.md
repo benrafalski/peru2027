@@ -6,6 +6,14 @@
 
 Use this as a planning checklist and enter your confirmed prices in the cost table. The supplied documents do not state the actual tour price or your flight and hotel costs, so the final total is a worksheet rather than a quote.
 
+## TL;DR
+
+- **Trek:** 5-day Classic Salkantay, planned for Apr 24-28 or Apr 25-29, 2027; arrive in Cusco two days early to acclimatize.
+- **Current Option A flight:** PHX-CUZ, Apr 21-30, shown at **$1,465.38 round trip**; two stops and overnight/extended layovers.
+- **Trek budget:** **$750 estimated package price** ($400 estimated deposit + $350 balance).
+- **Estimated airfare + ground costs:** **$2,470-$2,700**, before insurance, airport transfers, and optional upgrades. These are planning figures, not confirmed quotes.
+- **Date caveat:** The screenshot's Apr 29 return from Cusco fits Option A only; Option B needs a return flight departing Apr 30 or later.
+
 ## Date Plan
 
 | Option | Trek dates | Arrive in Cusco | Briefing | Return to Cusco |
