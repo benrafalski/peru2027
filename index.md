@@ -13,6 +13,34 @@ Use this as a planning checklist and enter your confirmed prices in the cost tab
 | A | Sat, Apr 24-Wed, Apr 28, 2027 | Thu, Apr 22 (two days before) | Fri, Apr 23 at 5:00 p.m. | Wed, Apr 28 around 8:00 p.m. |
 | B | Sun, Apr 25-Thu, Apr 29, 2027 | Fri, Apr 23 (two days before) | Sat, Apr 24 at 5:00 p.m. | Thu, Apr 29 around 8:00 p.m. |
 
+## Recommended Flight Screenshot (Option A)
+
+![American-marketed Phoenix-Cusco round-trip itinerary for Apr 21-29, 2027](docs/image.png)
+
+The screenshot shows **US$1,465.38 total** (displayed as about **$1,466 per person**) for a **Main** round trip. It is marked non-refundable and includes taxes and carrier-imposed fees. Both directions show overnight travel and extended layovers. This is a screenshot fare, not a booking or a guaranteed future price.
+
+### Outbound: Phoenix to Cusco
+
+**Wednesday, April 21, 2027** - departs PHX at **1:09 p.m.** and arrives CUZ at **8:10 a.m. Thursday, April 22** (+1 day). Total travel time is **17h 1m**, with **2 stops**.
+
+| Segment | Flight | Aircraft / operator |
+|---|---|---|
+| PHX-MIA | AA2677 | Boeing 737 MAX 8 |
+| MIA-LIM | AA385 | Airbus A321neo |
+| LIM-CUZ | AA7856 | Airbus A320; operated by JetSmart Peru for JetSmart |
+
+### Return: Cusco to Phoenix
+
+**Thursday, April 29, 2027** - departs CUZ at **3:40 p.m.** and arrives PHX at **9:18 a.m. Friday, April 30** (+1 day). Total travel time is **19h 38m**, with **2 stops**.
+
+| Segment | Flight | Aircraft / operator |
+|---|---|---|
+| CUZ-LIM | AA7855 | Airbus A320; operated by JetSmart Peru for JetSmart |
+| LIM-MIA | AA918 | Airbus A321neo |
+| MIA-PHX | AA1983 | Airbus A321neo |
+
+This itinerary fits **Option A**: it arrives in Cusco two days before the trek and leaves the day after returning to Cusco. It does not work for Option B, which ends the trek on Apr 29; that option needs a return flight departing Apr 30 or later.
+
 - [ ] Choose Option A or B and get the exact trek dates confirmed in writing by the operator.
 - [ ] Book **two nights in a Cusco hotel before the trek**: Apr 22 and 23 for Option A, or Apr 23 and 24 for Option B. This gives you the two-day acclimatization window; the briefing is on the second evening.
 - [ ] Book at least one Cusco hotel night for your return date (Apr 28 or 29). Avoid an onward flight that night; add another night if your flight schedule or connection is tight.
@@ -39,9 +67,23 @@ Use this as a planning checklist and enter your confirmed prices in the cost tab
 - [ ] Keep the evening before the trek free for the **5:00 p.m. briefing** at the operator's office or your hotel. Ask how to arrange another time if you cannot attend.
 - [ ] Book a Cusco hotel night for **Apr 28 (Option A)** or **Apr 29 (Option B)**. The return transfer is expected around **8:00 p.m. on Day 5**, so avoid booking a same-night onward flight.
 - [ ] Add a buffer night in Cusco before flying onward, especially if you have an important connection.
+- [ ] Keep the first Cusco day easy: the trek company recommends resting on arrival, avoiding strenuous activity for the first two days, eating lightly, and staying hydrated while adjusting to the altitude.
 - [ ] Check whether your flights and hotels can be changed if strikes, weather, landslides, or other disruptions affect the itinerary.
 - [ ] Arrange travel insurance covering medical evacuation, treatment, trip interruption, and cancellation. The trek terms strongly recommend insurance; helicopter evacuation and medical treatment are the hiker's responsibility.
 - [ ] Save copies of flight tickets, hotel confirmations, insurance details, passport, tour confirmation, and emergency contacts offline.
+
+### Cusco Hotels Mentioned by Salkantay Trekking
+
+The company's [Cusco lodging guide](https://www.salkantaytrekking.com/blog/where-to-stay-in-cusco/) recommends choosing by neighborhood as well as price. For the pre-trek nights, the **Historic Center** is a practical starting point for walkability and tour pickups; confirm the hotel can accommodate the trek vehicle at its entrance. Streets near the Plaza de Armas can be noisy at night.
+
+| Area | What to expect | Examples named in the guide |
+|---|---|---|
+| Historic Center | Central and walkable, with convenient access for tour pickups; busier and potentially noisy, especially by the Plaza de Armas. | Hotel Suecia II (private rooms, breakfast); La Posada del Viajero (breakfast and guest kitchen); Tierra Viva Hoteles Cusco. |
+| San Blas | Artistic, boutique atmosphere with cafes and views; some streets are steep, which may feel tiring during acclimatization. | Casa Andina Standard Cusco San Blas; Tika Wasi Casa Boutique. |
+| Lucrepata | Quieter, residential feel near San Blas; a short walk downhill to the historic center and fewer restaurants nearby. | Casona La Recoleta (apartments); El Mariscal Cusco Hotel. |
+| San Cristóbal | Quiet with city views and access to Sacsayhuamán; uphill from the center. | Palacio Manco Cápac; El Retablo Cusco Hotel. |
+
+For lower-cost possibilities, the guide lists Antarki Guest House private rooms/apartments at **US$11-$15 per night** and Hospedaje Pumacurco from **S/44 per night**; these are not the same category as a standard hotel room. The planner's **$30-$50 per night** hotel estimate remains a conservative placeholder. Confirm current 2027 rates, taxes, breakfast, cancellation terms, stairs/access, and trek pickup arrangements directly before booking.
 
 ## Confirm Trek Details and Optional Costs
 
@@ -72,11 +114,13 @@ Use this as a planning checklist and enter your confirmed prices in the cost tab
 
 ### Current Planning Estimate
 
-**Selected scenario: US$750 Classic Salkantay package.** For one person on a budget-to-midrange plan, allow about **US$2,000-$2,650 for airfare plus trek and Cusco ground costs**, before travel insurance, airport transfers, or optional upgrades. This uses a **$1,000-$1,400 round-trip flight estimate from Phoenix (PHX) to Cusco (CUZ)** plus the ground-cost estimate below. The package and airfare are current public planning prices, not confirmed April 2027 quotes. The ground estimate assumes **two economical Cusco hotel nights before the trek and one on return**, modest pre-trek meals, and some rental gear, tips, and contingency spending.
+**Selected scenario: US$750 Classic Salkantay package.** For one person on a budget-to-midrange plan, allow about **US$2,470-$2,700 for airfare plus trek and Cusco ground costs**, before travel insurance, airport transfers, or optional upgrades. This uses the **$1,465.38 round-trip fare shown in the supplied screenshot** plus the ground-cost estimate below. The ground estimate assumes **two economical Cusco hotel nights before the trek and one on return**, modest pre-trek meals, and some rental gear, tips, and contingency spending.
+
+The date-specific screenshot fare is detailed in [Recommended Flight Screenshot (Option A)](#recommended-flight-screenshot-option-a); the worksheet uses it for Option A. Get a separate Apr 30-or-later return quote for Option B.
 
 Payment fees on the $750 tour price would add about **$0 cash**, **$37.50 by card**, or **$60 by PayPal** if the fee is charged against the full tour price. That makes the estimated ground budget about **$1,005-$1,235 cash**, **$1,043-$1,273 by card**, or **$1,065-$1,295 by PayPal**. Confirm how the fee is applied to deposit and balance payments.
 
-The flight range is a route-level planning estimate, not a date-specific April 2027 fare; baggage and seat-selection fees may be additional. Travel insurance and airport transfers are not included, so add confirmed quotes for a full all-in total.
+The screenshot shows taxes and carrier-imposed fees included. Check baggage and seat-selection fees before booking. Travel insurance and airport transfers are not included, so add confirmed quotes for a full all-in total.
 
 ### Itemized Worksheet
 
@@ -88,7 +132,7 @@ Enter amounts in **US dollars**. Estimates are per person unless noted. Do not c
 | Minimum deposit, per person | **$400 estimate** | Supplied terms require $400 minimum for a $695-$994 package; non-refundable/non-transferable. |
 | Remaining tour balance | **$350 estimate** | $750 package price minus $400 deposit; due 48 hours before start. |
 | Payment fee | **$0 cash / $37.50 card / $60 PayPal** | Based on the $750 tour price and supplied 5% / 8% fees. |
-| Round-trip flights, Phoenix (PHX)-Cusco (CUZ) | **$1,000-$1,400 estimate** | Aim to arrive in Cusco Apr 22 (Option A) or Apr 23 (Option B); return flight should depart Apr 29 or Apr 30 respectively, after the return-night hotel stay. Usually involves a connection, often through Lima. Check baggage fees and connection protection. |
+| Round-trip flights, Phoenix (PHX)-Cusco (CUZ) | **$1,465.38 screenshot fare** | Screenshot itinerary is for Option A: depart PHX Apr 21, arrive CUZ Apr 22; depart CUZ Apr 29, arrive PHX Apr 30. Two stops and overnight/extended layovers; Lima-Cusco segments operated by JetSmart Peru. Recheck price, baggage fees, and connection protection before booking. |
 | Cusco hotel before trek | **$60-$100 estimate** | 2 nights; based on the budget-guide range of $30-$50 per night. |
 | Cusco hotel after trek | **$30-$50 estimate** | One economical night; extrapolated from the same guide's nightly range. |
 | Other lodging / airport transfers | $______ | If needed. |
@@ -105,7 +149,7 @@ Enter amounts in **US dollars**. Estimates are per person unless noted. Do not c
 | Tips | **$40-$60 estimate** | Voluntary; use as a planning allowance, not a required fee. |
 | Other meals, snacks, cash, and contingency | **$50-$100 allowance** | Personal reserve; adjust to your comfort level. |
 | **Ground trip estimate** | **$1,005-$1,235 cash** | Itemized estimate using the $750 package; excludes air, insurance, airport transfers, and unselected optional upgrades. |
-| **Airfare + ground subtotal** | **$2,005-$2,635 cash** | Adds estimated PHX-CUZ round-trip airfare; still excludes insurance, airport transfers, and unselected optional upgrades. |
+| **Airfare + ground subtotal** | **$2,470.38-$2,700.38 cash** | Adds the $1,465.38 screenshot fare to the ground estimate; still excludes insurance, airport transfers, and unselected optional upgrades. |
 
 ### Deposit Guide
 
@@ -145,12 +189,12 @@ Use the written itemized confirmation as the source of truth for what your speci
 
 ## Online Price Sources
 
-Prices checked **September 29, 2026**. Online prices can change; confirm all amounts directly before booking.
+Prices checked **September 30, 2026**. Online prices can change; confirm all amounts directly before booking. The supplied flight screenshot shows a date-specific fare for Option A; see it above.
 
 - [Salkantay Trekking: Classic Salkantay Trek](https://www.salkantaytrekking.com/trekking-in-peru/cusco/trekking-machu-picchu-salkantay-llactapata/) - lists the 5-day trek from **US$750 per person**. This is the best match for the supplied brochure, but it is a public starting price, not a confirmed April 2027 rate.
 - [Ali Peru Treks: Salkantay Trek price guide for 2026-2027](https://aliperutreks.com/salkantay-trek-price-2026-2027/) - provides independent planning ranges for Cusco lodging before the trek, daily meals, sleeping-bag rental, and optional tips. The budget above uses these line-item ranges, not its overall package total, which may reflect different inclusions and operators.
-- [Expedia: Phoenix to Cusco flights](https://www.expedia.com/lp/flights/phx/cuz/phoenix-to-cusco) - current route search lists round trips from about **$1,032**.
-- [KAYAK: Phoenix to Cusco flights](https://www.kayak.com/flight-routes/Phoenix-Sky-Harbor-Intl-PHX/Cusco-Velasco-Astete-CUZ) - current route search gives an average near **$1,250** and a recent range around **$1,163-$1,409**. Search results are route-level, not guaranteed prices for the April 2027 dates.
+- [Salkantay Trekking: Where to stay in Cusco](https://www.salkantaytrekking.com/blog/where-to-stay-in-cusco/) - neighborhood guidance, named hotels/hostels, and a few budget accommodation examples; most recommendations do not include prices.
+- [Expedia: Phoenix to Cusco flights](https://www.expedia.com/lp/flights/phx/cuz/phoenix-to-cusco) and [KAYAK: Phoenix to Cusco flights](https://www.kayak.com/flight-routes/Phoenix-Sky-Harbor-Intl-PHX/Cusco-Velasco-Astete-CUZ) - route-level comparison sources; they are not quotes for the specific screenshot itinerary.
 - The deposit tiers, card/PayPal fees, optional items, and included services in this checklist come from the booking terms and trek brochure you provided.
 
 ## Trip Documents
@@ -161,6 +205,7 @@ Prices checked **September 29, 2026**. Online prices can change; confirm all amo
 - [Classic Salkantay packing list (text)](docs/ENG_SKT5CL_PL.txt)
 - [Classic Salkantay sales brochure (PDF)](docs/ENG_SKT5CL_SALES.pdf)
 - [Classic Salkantay sales brochure (text)](docs/ENG_SKT5CL_SALES.txt)
+- [Recommended PHX-CUZ flight screenshot](docs/image.png)
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
